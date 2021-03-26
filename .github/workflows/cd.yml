@@ -9,7 +9,7 @@ on:
     - releases/*
 
 env:
-  owner: <owner>
+  owner: YukthaDReddy
   domain: github.io
   
 jobs:
